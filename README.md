@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Godfly666
 - 👀 I’m majored in physics
-- 🌱 I’m currently learning digital IC design/verification
+- 🌱 I’m currently learning about EDA technologies
 - 📫 How to reach me: godfly66666@gmail.com
 
 <!---
