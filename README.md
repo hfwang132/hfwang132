@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Godfly666
 - 👀 I’m majored in physics
-- 🌱 I’m currently learning about EDA technologies
-- 📫 How to reach me: godfly66666@gmail.com
+- 🌱 I’m currently learning about quantum photonics
+- 📫 How to reach me: hfwang132@gmail.com
 
 <!---
 Godfly666/Godfly666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
