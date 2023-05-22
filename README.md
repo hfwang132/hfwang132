@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Godfly666
-- 👀 I’m majored in physics
-- 🌱 I’m currently learning about quantum photonics
+- 👋 Hi, I’m Haifei Wang
 - 📫 How to reach me: hfwang132@gmail.com
 
 <!---
