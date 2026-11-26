@@ -3,7 +3,7 @@
 I'm a Ph.D. candidate in Quantum Technologies at the Centre for Quantum Technologies, National University of Singapore. I build experimental systems end to end, from the optics and electronics up to the software that runs the experiment.
 
 ```mermaid
-flowchart LR
+flowchart BT
     optics["Optics<br/>photon sources<br/>detectors"]
     pcb["Electronics<br/>PCB · ADC/DAC<br/>RF"]
     fpga["FPGA<br/>Verilog · HLS<br/>DSP · feedback"]
