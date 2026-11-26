@@ -1,17 +1,14 @@
 # Hi, I'm Haifei Wang 👋
 
-I'm a Ph.D. candidate in Quantum Technologies at the Centre for Quantum Technologies, National University of Singapore. I build experimental systems end to end, from the optics and electronics up to the software that runs the experiment.
+I'm a Ph.D. candidate in Quantum Technologies at the Centre for Quantum Technologies, National University of Singapore. I build experimental systems from the bottom up, from the physics and the electronics to the automation that runs the experiment.
 
-```mermaid
-flowchart BT
-    optics["Optics<br/>photon sources<br/>detectors"]
-    pcb["Electronics<br/>PCB · ADC/DAC<br/>RF"]
-    fpga["FPGA<br/>Verilog · HLS<br/>DSP · feedback"]
-    linux["Embedded Linux<br/>SoC · drivers"]
-    sw["Software<br/>C/C++ · Python<br/>control · data"]
-    optics --> pcb --> fpga --> linux --> sw
-```
+<p align="center">
+  <img src="stack.svg" width="560" alt="From the bottom up: Physics (quantum instruments), Electronics (PCB, ADC/DAC, RF, microwave), FPGA (real-time feedback, DSP), Embedded Linux (SoC, drivers), AI agents (lab automation)">
+</p>
 
-Right now I work on quantum optics hardware, including single-photon sources, detector electronics and FPGA-based real-time feedback. I'm also using AI agents to automate scientific instruments.
+Right now I work on the experimental side of quantum science and technology, including single-photon sources, detector electronics and FPGA-based real-time feedback. I'm also exploring AI agents for automated scientific instrumentation.
 
-🌐 [haifei.pro](https://haifei.pro) · 📧 [haifei_wang@u.nus.edu](mailto:haifei_wang@u.nus.edu) · 🔬 [ORCID](https://orcid.org/0009-0004-6041-3816)
+I keep notes on physics, mathematics and engineering at **[haifei.pro](https://haifei.pro)**.
+
+📧 [haifei_wang@u.nus.edu](mailto:haifei_wang@u.nus.edu)  
+🔬 [ORCID](https://orcid.org/0009-0004-6041-3816)

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 292" width="640" height="292" role="img" aria-labelledby="title">
+  <title id="title">From the bottom up: Physics, Electronics, FPGA, Embedded Linux, AI agents</title>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" text-anchor="middle" fill="#ffffff">
+    <!-- Layers from the top down; each is 52 high with an 8 gap, and 80 narrower than the one below. -->
+    <rect x="170" y="0" width="300" height="52" rx="8" fill="#187f86" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="320" y="22" font-size="16" font-weight="700">AI agents</text>
+    <text x="320" y="41" font-size="13.5" fill-opacity="0.88">Lab automation</text>
+
+    <rect x="130" y="60" width="380" height="52" rx="8" fill="#1d7a9e" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="320" y="82" font-size="16" font-weight="700">Embedded Linux</text>
+    <text x="320" y="101" font-size="13.5" fill-opacity="0.88">SoC, drivers</text>
+
+    <rect x="90" y="120" width="460" height="52" rx="8" fill="#246aa8" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="320" y="142" font-size="16" font-weight="700">FPGA</text>
+    <text x="320" y="161" font-size="13.5" fill-opacity="0.88">Real-time feedback, DSP</text>
+
+    <rect x="50" y="180" width="540" height="52" rx="8" fill="#2a559f" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="320" y="202" font-size="16" font-weight="700">Electronics</text>
+    <text x="320" y="221" font-size="13.5" fill-opacity="0.88">PCB, ADC/DAC, RF, microwave</text>
+
+    <rect x="10" y="240" width="620" height="52" rx="8" fill="#2b3f8c" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="320" y="262" font-size="16" font-weight="700">Physics</text>
+    <text x="320" y="281" font-size="13.5" fill-opacity="0.88">Quantum instruments</text>
+  </g>
+</svg>
